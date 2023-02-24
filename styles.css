@@ -84,6 +84,10 @@ body {
   }
 }
 
+.card__left > h1 {
+  font-size: 1.5rem;
+}
+
 .card__left > h4 {
   color: var(--clr-n-white);
   margin-bottom: 0;
